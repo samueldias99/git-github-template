@@ -5,7 +5,7 @@ Para que seja possível fazer a autenticação, temos que tentar mandar atualiza
 Por isso, preencha os dados abaixo e siga os passos do fluxo de Git.
 
 Nome: Samuel Dias da Rosa	
-Idade:23 
+Idade:23 Anos
 Estado:Rs
 
 Na hora de fazer o git push, seu terminal irá pedir a informação do token. Insira esse dado e continue.
